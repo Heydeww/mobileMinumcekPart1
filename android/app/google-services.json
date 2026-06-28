@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267404586980",
+    "project_id": "minumcek-app",
+    "storage_bucket": "minumcek-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267404586980:android:b165b1352407ace65021f1",
+        "android_client_info": {
+          "package_name": "com.example.minum_cekk_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLejaN7ZbHNi94SwIWaQf3DlrW2XFkId8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
